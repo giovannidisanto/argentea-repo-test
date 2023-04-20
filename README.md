@@ -3,7 +3,10 @@
 Descrizione progetto
 
 
-indicazioni su come buildare
+Come buildare
 
 
 Indicazioni su come deployare
+
+
+Altre info
